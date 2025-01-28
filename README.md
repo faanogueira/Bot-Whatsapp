@@ -21,7 +21,7 @@
 
 ## Getting Started
 
-With this library, you can build automated conversation flows agnostic to the WhatsApp provider, set up automated responses for frequently asked questions, receive and respond to messages automatically, and track interactions with customers. Additionally, you can easily set up triggers to expand functionalities limitlessly.
+Com essa biblioteca, você pode criar fluxos de conversa automatizados independentes do provedor do WhatsApp, configurar respostas automatizadas para perguntas frequentes, receber e responder a mensagens automaticamente e rastrear interações com os clientes. Além disso, você pode configurar facilmente gatilhos para expandir as funcionalidades sem limites.
 
 ```
 npm create builderbot@latest
@@ -30,15 +30,14 @@ npm create builderbot@latest
 
 ## Documentation
 
-Visit [builderbot](https://builderbot.vercel.app/) to view the full documentation.
+Visite [builderbot](https://builderbot.vercel.app/) para ver a documentação completa.
 
 
 ## Official Course
 
-If you want to discover all the functions and features offered by the library you can take the course.
-[View Course](https://app.codigoencasa.com/courses/builderbot?refCode=LEIFER)
+Se você quiser descobrir todas as funções e recursos oferecidos pela biblioteca, você pode fazer o curso.
+[Ver Curso](https://app.codigoencasa.com/courses/builderbot?refCode=LEIFER)
 
 
-## Contact Us
-- [💻 Discord](https://link.codigoencasa.com/DISCORD)
-- [👌 𝕏 (Twitter)](https://twitter.com/leifermendez)
+## Contribution to Bot Whatsapp
+- [Contribuição para o Projeto](https://opencollective.com/bot-whatsapp/contributions/827009)
