@@ -1,0 +1,24 @@
+{
+  "version": "1.2.5-alpha.4",
+  "packages": [
+    "packages/bot",
+    "packages/cli",
+    "packages/create-builderbot",
+    "packages/database-mongo",
+    "packages/database-mysql",
+    "packages/database-json",
+    "packages/database-postgres",
+    "packages/eslint-plugin-builderbot",
+    "packages/provider-meta",
+    "packages/provider-baileys",
+    "packages/provider-twilio",
+    "packages/provider-web-whatsapp",
+    "packages/provider-wppconnect",
+    "packages/provider-telegram",
+    "packages/provider-venom",
+    "packages/contexts-dialogflow",
+    "packages/contexts-dialogflow-cx"
+  ],
+  "npmClient": "pnpm",
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json"
+}

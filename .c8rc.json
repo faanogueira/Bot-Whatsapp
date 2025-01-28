@@ -1,0 +1,25 @@
+{
+    "src": "./src",
+    "exclude": [
+        "**/lib",
+        "**/dist",
+        "_test_",
+        "__test__",
+        "__mock__",
+        "_mock_",
+        "_mocks_",
+        "**/__tests__",
+        "**/__test__",
+        "**/_test_",
+        "**/__mock__",
+        "**/_mock_",
+        "**/_mocks_"
+    ],
+    "reporter": [
+        "html",
+        "lcov"
+    ],
+    "report-dir": "./coverage",
+    "check-coverage": true,
+    "lines": 0
+}

@@ -1,0 +1,95 @@
+- [x] EVENTS.WELCOME no lo completa
+- [x] verificar todos "sendMessage" sendMessage = async (numberIn: string | number, message: string, { options }: { options: SendOptions }):
+- [x] todos los provider necesitan tener initHttpServer ya se default o no si es grauitos
+- [x] todos los providers envien la propiedad "name"
+- [x] revisar los packages de context dialogflows
+- [x] cambiar contexto de sendMessage en los providers
+- [x] state.get<generico> o 
+- [x] eslinter nueva regla flowDynamic seguido de un endFLow  no sirve el endFlow entonces la idae esuqe diga que no puede usar juntoss
+- [x] revisar en todos los package.json  dist/
+- [x] todos los providers deben tener "globalVendorArgs"
+- [/] hacer que los addKeyowrd([]) ni ('')
+- [X] cambiar los startes
+- [X] asegurar el covergage 90%
+- [x] https://github.com/codigoencasa/bot-whatsapp/pull/977#issuecomment-1920056490
+- [X] mirar este PR https://github.com/codigoencasa/bot-whatsapp/pull/965/files
+- [X] revisar test.skip
+- [x] https://discord.com/channels/915193197645402142/970206231849492480/1207695098629070849
+- [/] Cunado se ejecuta endFlow y luego tiene un capture:true queda esperando la respuesta
+- [x] handleCtx deolver res.end DEBES INICIAR SESION
+- [x] name qr png en los endpoints
+- [x] await bot.sendMessage('', '', {})
+- [X] omit cli copy
+- [x] flowDynamic envia imagenes sin texto
+- [x] https://github.com/codigoencasa/bot-whatsapp/pull/992/files
+- [x] cambiar a `WPPConnectProvider` import { WPPConnectProviderClass } from '@bot-whatsapp/provider-wppconnect';
+- [x] cambiar a `JsonFileDB` import { JsonFileDB } from '@bot-whatsapp/database-json';';
+- [x] await bot.blacklist.add(`340000000`) //
+- [x] handler no responder error
+- [x] handleCtx twilio / meta
+- [x] revisar el fallBack
+- [x] numero host en el ctx twilio / meta
+- [x] https://discord.com/channels/915193197645402142/1089893256260759553/1213299228605153290
+- [x] https://docs.google.com/document/d/1yO-okdcl2BJA_1wYvZRd5C-V5xs9QVlqcDRdDwz47t0/edit#heading=h.twmsbd7b8ybt
+- [x] Remover + cunado se usa como trigger
+- [x] cors polka
+- [x] hacer pruebas con npm
+- [x] // await flowDynamic([`El link de pago es: ${link}`, `¿Más dudas? escribeme a leifer.contacto@gmail.com`])
+- [x] provider gratuitos CMD ["pm2-runtime", "start", "./dist/index.js", "--cron", "0 */12 * * *"]
+- [x] extend MemoryDB
+- [x] remove json del template memory
+- [x] deprecated button inside Byale
+- [x] idle, ref
+- [x] orden de start http
+- [x] meta recuerda que debes iniciar la conversacion con iun template
+- [x] rollup starter remover rollup nodeResolver
+- [x] baileys jpg error
+- [x] remove space number
+- [x] que se puedae escribir a el mismo
+- [x] mysql port
+- [x] Cambiar todos los mensajes a ingles
+- [x] meta image, media, audio
+- [x] save voice note 'resolve'
+- [x] bailey need one restart ??
+- [x] problema session docker borrar
+- [x] starterst .gitignore, .env precargado vacio
+- [x] elinter
+- [x] Cambiar readme de los mono proyectos
+- [x] cambiar mensajes a ingles
+- [x] emptyDir to other
+- [x] handleCtx bot.state globalState
+- [ ] cunado escribes a whatsapp al contacto el bot tmb responde (globalArg con boolean)
+
+- [x] ubuntu baileys node 18.19
+- [x] ubuntu baileys node 20.10
+- [x] ubuntu baileys node 21.7.2
+
+- [x] win baileys node 18.19
+- [x] win baileys node 20.10
+- [x] win baileys node 21.7.2
+
+- [ ] ubuntu venom node 18.19
+- [ ] ubuntu venom node 20.10
+- [ ] ubuntu venom node 21.7.2
+
+- [ ] win venom node 18.19
+- [ ] win venom node 20.10
+- [ ] win venom node 21.7.2 --> pnpm probar
+
+- [x] docker bailey-ts
+- [x] docker bailey-js
+- [x] docker venom-ts
+- [x] docker venom-js
+- [ ] docker twilio-ts
+- [ ] docker twilio-js
+
+- [ ] espera que se genere el qr code validar controler si no consige la imagn
+- [ ] meta avisa connecto cunado no tiene webhook
+- [ ] aviso node node 20.12.1 npm v10.5.0 o superior de lo contrario sharp
+- [ ] Error: ENOENT: no such file or directory, open './node_modules/venom-bot/dist/utils/spinnies.js'
+- [ ] coverage
+- [ ] test meta
+- [ ] try catch error http
+- [ ] test twilio
+- [ ] meta recuerda activar los dos webhooks
+- [ ] cambiar el CONTRIBUTING.md
