@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://builderbot.vercel.app/">
     <picture>
-      <img src="(https://github.com/faanogueira/Bot-Whatsapp/blob/main/assets/thumbnail-vector.png)" height="80">
+      <img src="[https://github.com/faanogueira/Bot-Whatsapp/blob/main/assets/thumbnail-vector.png]" height="80">
     </picture>
     <h2 align="center">BuilderBot</h2>
   </a>
